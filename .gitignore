@@ -1,0 +1,53 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Bb]uilds_*
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+#*.pidb
+*.svd
+*.pdb
+
+# Unity3D generated file
+sysinfo.txt
+
+# Visual Studio / MonoDevelop
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+.vs/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Packed/temporary
+*.apk
+*.aab
+*.zip
+*.tar.gz
+
+# Rider
+.idea/
+*.sln.iml
+
+# Vuforia cache
+Vuforia/**/Cache
+
+# Exclude build back ups
+builds_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# TextMesh Pro generated
+TextMesh Pro/SerializedFontAssets
